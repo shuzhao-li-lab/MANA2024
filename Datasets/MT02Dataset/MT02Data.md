@@ -1,0 +1,14 @@
+##MT02 data:
+Updated by AS-19may2022
+
+NIST SRM 1950 Samples (HILICpos):
+"batch11_MT_20210805_005.mzML"
+"batch12_MT_20210806_005_20210806121327.mzML"
+"batch13_MT_20210807_005.mzML"
+"batch14_MT_20210808_005.mzML"
+
+Qstd Samples (HILICpos):
+"batch14_MT_20210808_087.mzML"
+"batch14_MT_20210808_089.mzML"
+"batch14_MT_20210808_179.mzML"
+"batch14_MT_20210808_181.mzML"
