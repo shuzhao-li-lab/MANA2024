@@ -1,0 +1,60 @@
+INFO:root:Warning no match in isotope_pattern: 3.010106086730957
+INFO:root:Unknown isotope match ~ (87.05448055267334, 'F6248')
+INFO:root:Warning no match in isotope_pattern: 4.0134167075157166
+INFO:root:Unknown isotope match ~ (88.0577911734581, 'F152')
+INFO:root:Warning no match in isotope_pattern: 4.0134119391441345
+INFO:root:Unknown isotope match ~ (152.07384324073792, 'F141')
+INFO:root:Warning no match in isotope_pattern: 5.016778767108917
+INFO:root:Unknown isotope match ~ (153.0772100687027, 'F244')
+INFO:root:Warning no match in isotope_pattern: 3.010877013206482
+INFO:root:Unknown isotope match ~ (203.13911020755768, 'F1090')
+INFO:root:Warning no match in isotope_pattern: 4.014221608638763
+INFO:root:Unknown isotope match ~ (204.14245480298996, 'F1204')
+INFO:root:Empty network - 	['F3660']	[]	[]	[]
+INFO:root:Empty network - 	['F4405']	[]	[]	[]
+INFO:root:Empty network - 	['F6729']	[]	[]	[]
+INFO:root:Warning no match in isotope_pattern: 0.0013725757598876953
+INFO:root:Unknown isotope match ~ (267.171756029129, 'F1644')
+INFO:root:Warning no match in isotope_pattern: 3.009270668029785
+INFO:root:Unknown isotope match ~ (286.12693786621094, 'F7990')
+INFO:root:Warning no match in isotope_pattern: 0.00010251998901367188
+INFO:root:Unknown isotope match ~ (134.06338167190552, 'F8171')
+INFO:root:Warning no match in isotope_pattern: 3.0109038949012756
+INFO:root:Unknown isotope match ~ (180.1495702266693, 'F2812')
+INFO:root:Warning no match in isotope_pattern: 3.0109038949012756
+INFO:root:Unknown isotope match ~ (180.1495702266693, 'F2813')
+INFO:root:Warning no match in isotope_pattern: 3.0109038949012756
+INFO:root:Unknown isotope match ~ (180.1495702266693, 'F2814')
+INFO:root:Warning no match in isotope_pattern: 4.014308750629425
+INFO:root:Unknown isotope match ~ (181.15297508239746, 'F7905')
+INFO:root:Warning no match in isotope_pattern: 3.0109365582466125
+INFO:root:Unknown isotope match ~ (232.1293339729309, 'F7793')
+INFO:root:Warning no match in isotope_pattern: 3.011135458946228
+INFO:root:Unknown isotope match ~ (358.29581105709076, 'F4107')
+INFO:root:Warning no match in isotope_pattern: 3.0107638835906982
+INFO:root:Unknown isotope match ~ (332.16071701049805, 'F4276')
+INFO:root:Warning no match in isotope_pattern: 3.0069180727005005
+INFO:root:Unknown isotope match ~ (503.99946689605713, 'F4291')
+INFO:root:Warning no match in isotope_pattern: 3.0076152086257935
+INFO:root:Unknown isotope match ~ (518.0156936645508, 'F4482')
+INFO:root:Warning no match in isotope_pattern: 0.001422882080078125
+INFO:root:Unknown isotope match ~ (517.3322792053223, 'F4470')
+INFO:root:Warning no match in isotope_pattern: 0.001422882080078125
+INFO:root:Unknown isotope match ~ (517.3322792053223, 'F4471')
+INFO:root:Empty network - 	['F4690']	[]	[]	[]
+INFO:root:Warning no match in isotope_pattern: 3.009258508682251
+INFO:root:Unknown isotope match ~ (347.02384185791016, 'F7481')
+INFO:root:Empty network - 	['F5872']	[]	[]	[]
+INFO:root:Empty network - 	['F5403']	[]	[]	[]
+INFO:root:Empty network - 	['F4268']	[]	[]	[]
+INFO:root:Warning no match in isotope_pattern: 3.0116567611694336
+INFO:root:Unknown isotope match ~ (875.5211172103882, 'F5821')
+INFO:root:Empty network - 	['F8036']	[]	[]	[]
+INFO:root:Warning no match in isotope_pattern: 3.009085536003113
+INFO:root:Unknown isotope match ~ (994.6812896728516, 'F8146')
+INFO:root:Warning no match in isotope_pattern: 3.0110188722610474
+INFO:root:Unknown isotope match ~ (789.6111379861832, 'F6507')
+INFO:root:Empty network - 	['F6508']	[]	[]	[]
+INFO:root:Empty network - 	['F7601']	[]	[]	[]
+INFO:root:Warning no match in isotope_pattern: 3.011430263519287
+INFO:root:Unknown isotope match ~ (815.6262245178223, 'F6898')
