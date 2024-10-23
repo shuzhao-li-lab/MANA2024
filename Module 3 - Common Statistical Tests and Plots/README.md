@@ -19,3 +19,13 @@ This can be mitigated by accounting for multiple testing in the statistics. Vari
 ## Plotting
 
 Plots are critical to communicating results effectively, but high dimensional data can be very difficult to visualize. In notebook 3.2, we will make some of the more common plots needed for metaoblomics analyses including box plots of feature intensities per sample, clustermaps showing the relative similarity of different samples, and finally we will perform PCA and visualize the results. 
+
+## Pathway analysis
+
+Pathway analysis is not covered in this workshop. 
+If you are interested, here's an overview from ESPOL workshop (2018):
+https://github.com/shuzhao-li-lab/espol-workshop/blob/master/slides/day3_pathway_analysis.pdf
+
+Handon pathway analysis notebook from an ASMS workshop (2018):
+https://github.com/shuzhao-li-lab/Notebooks-computational-metabolomics/blob/master/notebooks/All_Exercises_execuable_ASMS2018F.ipynb
+
