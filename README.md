@@ -18,7 +18,7 @@ Now the environment is configured and datasets have been downloaded and you can 
 
 # Downloding Data and Software
 
-In the colab environment, datasets can be downloaded by executing notebook 0.2. On your own machine, this notebook will also install the required software with the exception of jupyter and python. Please see the readme in module 0 for links to instructions for installing these. 
+In the colab environment, datasets are non-persistent, so each notebook must download the data and required packages each time. The notebooks will do this automatically. 
 
 ## Workshop Outline
 
@@ -77,3 +77,7 @@ Module 3 is an overview of common statistical tests you may need for metabolomic
   - Terminology and overview of statistical concepts presented (3.0)
   - Statistical tests on metabolomics data (3.1)
   - Generation of common plots for metabolomics data (3.2)
+
+## After The Workshop
+
+Many of the notebooks provided are reusable with minimal modification on your own datasets. If you have any questions, please open an issue or email me directly at joshua.mitchell@jax.org. 
